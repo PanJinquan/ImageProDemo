@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageProDemo.iml" filepath="$PROJECT_DIR$/ImageProDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVTutorial2MixedProcessing/ImageProDemo.iml" filepath="$PROJECT_DIR$/openCVTutorial2MixedProcessing/ImageProDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageProDemo/ImageProDemo-ImageProDemo.iml" filepath="$PROJECT_DIR$/ImageProDemo/ImageProDemo-ImageProDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" />
+    </modules>
+  </component>
+</project>

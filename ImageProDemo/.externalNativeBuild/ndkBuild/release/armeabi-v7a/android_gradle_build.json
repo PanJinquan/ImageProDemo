@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Android.mk",
+    "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\android-ndk-r10d\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/MyGit/android/ImageProDemo/ImageProDemo/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "mixed_sample-release-armeabi-v7a": {
+      "buildCommand": "D:\\Android\\android-ndk-r10d\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/MyGit/android/ImageProDemo/ImageProDemo/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\build\\intermediates\\ndkBuild\\release\\lib D:/MyGit/android/ImageProDemo/ImageProDemo/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libmixed_sample.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "mixed_sample",
+      "files": [
+        {
+          "src": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\ImageProcess.cpp",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector\" \"-no-canonical-prefixes\" \"-march\u003darmv7-a\" \"-mfpu\u003dvfpv3-d16\" \"-mfloat-abi\u003dsoftfp\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-Os\" \"-g\" \"-DNDEBUG\" \"-fomit-frame-pointer\" \"-fno-strict-aliasing\" \"-finline-limit\u003d64\" \"-ID:/OpenCV-android-sdk-310\\OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-ID:/OpenCV-android-sdk-310\\OpenCV-android-sdk/sdk/native/jni/include\" \"-ID:/Android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include\" \"-ID:/Android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi-v7a/include\" \"-ID:/Android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/backward\" \"-ID:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\jni\\\\\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-ID:/Android/android-ndk-r10d/platforms/android-21/arch-arm/usr/include\""
+        }
+      ],
+      "output": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libmixed_sample.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "D:\\Android\\android-ndk-r10d\\toolchains\\arm-linux-androideabi-4.8\\prebuilt\\windows-x86_64\\bin\\arm-linux-androideabi-g++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

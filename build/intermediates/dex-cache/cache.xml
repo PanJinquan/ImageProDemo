@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MyGit\android\ImageProDemo\openCVLibrary310\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6fa0931c1c862cdc8e896e3d7d3edc3ae14eef5a">
+        <dex dex="D:\MyGit\android\ImageProDemo\ImageProDemo\build\intermediates\pre-dexed\debug\classes_78fe1d036a0fa0a392578326545c0e7d6f8276b8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\girl.jpg",
+        "source": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\res\\drawable\\girl.jpg"
+    },
+    {
+        "merged": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\MyGit\\android\\ImageProDemo\\ImageProDemo\\src\\main\\res\\drawable\\icon.png"
+    }
+]
